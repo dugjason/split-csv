@@ -117,6 +117,16 @@ function App() {
         <header>
           <h1>CSV Splitter</h1>
           <p>Upload a CSV file and split it into smaller files</p>
+          <div className="description">
+            <p>
+              <strong>🔒 Privacy-first:</strong> All processing happens entirely in your browser. 
+              Your CSV data never leaves your device and is not sent to any server.
+            </p>
+            <p>
+              <strong>📱 Works offline:</strong> No internet connection required after loading the page. 
+              Split your files anytime, anywhere.
+            </p>
+          </div>
         </header>
 
       <main>
